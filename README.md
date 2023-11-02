@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/kriraw14/responsive-website-react-template">
-    <img width="141" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/31610903-198f-4185-891d-25ce5bbb01ac">
-  </a>
+    <img width="103" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/1d8eb54e-d18a-46f8-be88-383de386805c">
+</a>
     <br />
     <a href="https://github.com/kriraw14/responsive-website-react-template/issues">Report Bug</a>
     ·
@@ -51,17 +51,15 @@
     <br />
   <h3 align="center">Screenshots from desktop</h3>
     <br />
-    <img width="887" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/dd7b03bf-f2ae-409d-8f79-a86b4fe1a054">
-<img width="684" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/dfcb6b6b-c170-4541-8d09-8dab2fae0678">
-<img width="894" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/25dada23-1b9a-4cb6-977e-8797951cdfd4">
+    <img width="613" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/f2ef7e11-591b-469b-b345-f2960396d338">
+<img width="510" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/472e76f2-5bc9-456e-b17d-709074ea6257">
+<img width="606" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/5e967965-ec2a-4688-be88-7842e129a638">
+
     <br />
 <h3 align="center">Screenshots from mobile</h3>
     <br />
-<img width="227" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/cb50af73-0ce2-42fe-bb53-55c1f8e2a163">
- <img width="244" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/122364e5-8733-4c43-b7fc-0a9e81615b9c">
-<img width="241" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/2635896d-195a-4a50-b577-e60b19b7f0b6">
-<img width="238" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/8d9c8f7b-73f6-4226-948b-948ab6340404">
-<img width="237" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/fe7ab088-7b27-486d-8535-c41ed11d3780">
+<img width="536" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/8aad1d32-482c-46a5-b713-2805d44048e1">
+<img width="357" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/4c037911-5e31-4d8c-bc19-ed4cf10b0663">
 
 Welcome to the Restaurant Website Template in React! This template provides a starting point for building a modern and responsive restaurant website using the React JavaScript library. It comes with a set of pre-designed components and layouts to help you quickly create a stunning website for your restaurant. 
 
