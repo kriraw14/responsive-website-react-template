@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kriraw14/responsive-website-react-template">
-    <img width="103" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/1d8eb54e-d18a-46f8-be88-383de386805c">
+    <img width="77" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/630a7f11-73a5-45cf-92ed-1f9e0ea9d0f5">
 </a>
     <br />
     <a href="https://github.com/kriraw14/responsive-website-react-template/issues">Report Bug</a>
@@ -51,15 +51,13 @@
     <br />
   <h3 align="center">Screenshots from desktop</h3>
     <br />
-    <img width="613" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/f2ef7e11-591b-469b-b345-f2960396d338">
-<img width="510" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/472e76f2-5bc9-456e-b17d-709074ea6257">
-<img width="606" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/5e967965-ec2a-4688-be88-7842e129a638">
-
-    <br />
+    <img width="456" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/4289c541-91df-432d-90f4-771ccde328b1">
+    <img width="385" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/6946bf3e-1d3a-4af0-a780-19b74f8e1cbe">
+    <img width="458" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/e9baa3c3-a417-499e-a4ba-64921219a320">
 <h3 align="center">Screenshots from mobile</h3>
     <br />
-<img width="536" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/8aad1d32-482c-46a5-b713-2805d44048e1">
-<img width="357" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/4c037911-5e31-4d8c-bc19-ed4cf10b0663">
+    <img width="410" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/f780fac5-7200-44db-860d-f7ab8dc99411">
+    <img width="273" alt="image" src="https://github.com/kriraw14/responsive-website-react-template/assets/6744167/f3a16396-2474-418d-8217-fa9f971b356d">
 
 Welcome to the Restaurant Website Template in React! This template provides a starting point for building a modern and responsive restaurant website using the React JavaScript library. It comes with a set of pre-designed components and layouts to help you quickly create a stunning website for your restaurant. 
 
@@ -74,7 +72,7 @@ Welcome to the Restaurant Website Template in React! This template provides a st
 
 **Contact Information:** Display your restaurant's contact information and location on a dedicated page.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
@@ -91,7 +89,7 @@ React is a JavaScript library for building user interfaces.
 Component-Based: Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep the state out of the DOM.
 Learn Once, Write Anywhere: We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code. React can also render on the server using Node and power mobile apps using React Native.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
@@ -119,7 +117,7 @@ cd responsive-website-react
 npm install
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
@@ -138,7 +136,7 @@ npm install
 ```
 **Deploy:** Deploy the contents of the build directory to your preferred hosting platform, such as GitHub Pages, Netlify, or Vercel.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
@@ -151,7 +149,7 @@ npm install
 
 See the [open issues](https://github.com/kriraw14/responsive-website-react-template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
@@ -169,7 +167,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
@@ -178,16 +176,16 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name -Krish - krishansr@missionreadyhq.com
+Name -Krish
 
-Project Link: [https://github.com/kriraw14/responsive-website-react-template](https://github.com/kriraw14/responsive-website-react-template)
+Repo Link: [https://github.com/kriraw14/responsive-website-react-template](https://github.com/kriraw14/responsive-website-react-template)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
